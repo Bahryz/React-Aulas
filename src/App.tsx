@@ -1,12 +1,17 @@
 import React from 'react';
+import ComponenteExemplo from './ComponenteExemplo';
+import ConsultarCEP from './ConsultarCEP';
 
 
 function App() {
+
   return (
 
-    <div className="App">
+    <div>
 
-      <h1> Primeira aplicação em react </h1>
+      <ConsultarCEP/>
+
+
       
     </div>
 

@@ -1,0 +1,6 @@
+Exibir os dados do CEP no HTML 1-
+Realizar a requisição para a sua API 2-
+Resolver o problema de CORS na API 3-
+Exibir a lista de produtos no HTML 4-
+
+//fazer que o cep do then va parar na div
